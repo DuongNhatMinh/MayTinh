@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MayTinh</string>
+    <string name="ST1" />
+    <string name="ST2" />
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btn0">0</string>
+    <string name="btnTinh">=</string>
+    <string name="rbtnCong">+</string>
+    <string name="rbtnTru">-</string>
+    <string name="rbtnNhan">*</string>
+    <string name="rbtnChia">/</string>
+    <string name="sothu1">SoThu1</string>
+    <string name="sothu2">SoThu2</string>
+    <string name="reset">AC</string>
+    <string name="exit">thoat</string>
+</resources>
